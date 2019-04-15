@@ -1,0 +1,16 @@
+{
+  "name": "json-input",
+  "version": "1.0.0",
+  "description": "A web component that detects if the JSON inserted is valid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web-component",
+    "experimental",
+    "JSON"
+  ],
+  "author": "Noah Holt",
+  "license": "ISC"
+}
